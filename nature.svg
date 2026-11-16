@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fb7ee"/>
+      <stop offset="1" stop-color="#d9f0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="650" cy="90" r="45" fill="#ffe66d"/>
+  <polygon points="0,320 180,130 330,320" fill="#7a8ca0"/>
+  <polygon points="130,320 340,100 560,320" fill="#8fa1b5"/>
+  <polygon points="340,100 300,150 340,140 370,160" fill="#ffffff"/>
+  <polygon points="450,320 620,170 800,320" fill="#7a8ca0"/>
+  <rect y="300" width="800" height="150" fill="#4caf50"/>
+  <ellipse cx="400" cy="390" rx="260" ry="35" fill="#4aa8d8"/>
+  <g fill="#6d4c41">
+    <rect x="80" y="320" width="14" height="50"/>
+    <rect x="150" y="335" width="14" height="50"/>
+    <rect x="690" y="325" width="14" height="50"/>
+  </g>
+  <g fill="#2e7d32">
+    <polygon points="87,240 50,330 124,330"/>
+    <polygon points="157,255 120,345 194,345"/>
+    <polygon points="697,245 660,335 734,335"/>
+  </g>
+</svg>
